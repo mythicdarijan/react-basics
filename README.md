@@ -1,2 +1,2 @@
-# shoe-shop-website-react
+# react-basics
  Learning and implementing React JS
