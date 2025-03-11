@@ -4,9 +4,9 @@ function Card(){
     
     return(
         <div className="card">
-            <img src={profilePic} alt="profile picture" />
-            <h2>Darijan Mickoski</h2>
-            <p>Front-End Web Developer and Entrepreneur</p>
+            <img className="card-image" src={profilePic} alt="profile picture" />
+            <h2 className="card-title">Darijan Mickoski</h2>
+            <p className="card-text">Front-End Web Developer and Entrepreneur</p>
         </div>
     );
 }
