@@ -14,6 +14,6 @@ Student.propTypes = {
     name: propTypes.string,
     age: propTypes.number,
     isStudent: propTypes.bool
-}
+};
 
 export default Student
